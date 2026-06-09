@@ -1,0 +1,16 @@
+{
+  "name": "04_advance_router",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Yash Vimal",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
